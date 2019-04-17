@@ -1,5 +1,5 @@
 {
-  "name": "pymdown-extensions-details-polyfill",
+  "name": "pedp",
   "version": "0.0.1",
   "main": "pedp.js",
   "repository": "https://github.com/Richienb/pymdown-extensions-details-polyfill.git",
