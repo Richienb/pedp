@@ -1,2 +1,2 @@
-# pymdown-extensions-details-polyfill
+# Pymdown Extensions Details Polyfill
 A source for the Pymdown Extensions Details Polyfill.
